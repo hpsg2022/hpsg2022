@@ -1,5 +1,7 @@
 ## 29th International Conference on Head-Driven Phrase Structure Grammar
 
+[Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Registration](registration.md)
+
 ### Scope
 
 To be added.
