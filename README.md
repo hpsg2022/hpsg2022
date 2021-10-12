@@ -13,8 +13,7 @@ To be added.
 
 ### Important dates
 
-- First call for papers: asap in October
-- 2nd call for paper: February 21st
+- Call for papers: asap in October
 - Deadline for submissions: March 16th
 - Notification of acceptance: May 2nd
 
