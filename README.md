@@ -1,6 +1,4 @@
-## Head-Driven Phrase Structure Grammar
-
-### 29th International Conference on Head-Driven Phrase Structure Grammar
+## 29th International Conference on Head-Driven Phrase Structure Grammar
 
 ### Scope
 
