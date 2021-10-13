@@ -26,7 +26,7 @@ techniques to addressing questions in linguistic theory.
 
 ### Invited speaker
 
-Koji Mineshima (Keio University)
+[Koji Mineshima](https://abelard.flet.keio.ac.jp/person/minesima/index.html) (Keio University)
 
 
 ### Workshop format 
