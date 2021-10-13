@@ -4,18 +4,20 @@
 
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
-Institute for Japanese Language and Linguistics on 29 July - 31 July 2021. 
+Institute for Japanese Language and Linguistics on 29 July - 31 July 2022. 
 It is an **online event**. Abstracts are invited that address
 linguistic, foundational, or computational issues relating to or in
 the spirit of the framework of Head-Driven Phrase Structure Grammar.
 
+
 ### Conference Format
 
-The HPSG 2021 conference will be a two-day main conference. It will be
+The HPSG 2022 conference will be a two-day main conference. It will be
 followed by a one-day workshop on Computational Linguistics on East
-Asian languages, which will be announced separately. Presentations
+Asian Languages, which will be announced separately. Presentations
 will be pre-recorded and pre-loaded on the conference website, and the
 discussion period will be online.
+
 
 ### Submissions
 
