@@ -2,6 +2,12 @@
 
 [Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
 
+**Note: This site is still under construction and the information below
+is unofficial; we will send out an official Call for Papers soon, so,
+please wait for a while and come back to this site 
+once the details are finalized.**
+
+
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
 Institute for Japanese Language and Linguistics on 29 July - 31 July 2022. 

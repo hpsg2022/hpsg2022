@@ -1,5 +1,10 @@
 # Workshop on Computational Linguistics on East Asian Languages
 
+**Note: This site is still under construction and the information below
+is unofficial; we will send out an official Call for Papers soon, so,
+please wait for a while and come back to this site 
+once the details are finalized.**
+
 A one-day workshop on Computational Linguistics on East Asian
 Languages will be held as an **online event** on 31 July 2022, in
 conjunction with the 29th International Conference on Head-driven
@@ -57,23 +62,3 @@ The submissions should not include the authors' names, and authors are
 asked to avoid self-references. Please direct any questions to the
 Program Committee Chair: Elodie Winckel (hpsg22@easychair.org).
 
-
-### Organizer
-
-Yusuke Kubota (National Institute for Japanese Language and Linguistics)
-
-
-### Important dates
-
-- Abstract submission deadline: March 16th 2022 (anywhere on earth) 
-- Notifications of acceptance: May 2nd 2022
-- Main Conference: July 29th-30th 2022
-- Workshop on  Computational Linguistics on East Asian languages: July 31st 2022
-
-
-### Publication
-
-A call for contributions to the proceedings will be issued after the
-conference. The papers will be published either at the online
-proceedings platform at CSLI together with the main conference
-proceedings or in a separate collective volume.
