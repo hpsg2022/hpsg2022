@@ -3,8 +3,9 @@
 [Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
 
 The 29th International Conference on Head-Driven Phrase Structure
-Grammar will be virtually hosted at Nagoya University on 29 July - 31
-July 2021. it is an online event. Abstracts are invited that address
+Grammar will be virtually hosted at Nagoya University and National
+Institute for Japanese Language and Linguistics on 29 July - 31 July
+2021. it is an online event. Abstracts are invited that address
 linguistic, foundational, or computational issues relating to or in
 the spirit of the framework of Head-Driven Phrase Structure Grammar.
 
