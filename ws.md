@@ -1,4 +1,4 @@
-## Workshop on Computational Linguistics on East Asian Languages
+# Workshop on Computational Linguistics on East Asian Languages
 
 A one-day workshop on Computational Linguistics on East Asian
 Languages will be held as an **online event** on 31 July 2022, in
@@ -14,9 +14,9 @@ HPSG framework to submit.
 Possible topics include, but are not limited to syntactic/semantic
 parsing, cognitive modelling with computational models, development of
 language resources with annotations beyond the word level (treebanks,
-propbanks, discourse annotations, etc.), applications of large-scale
-corpus data and/or sophisticated machine learning techniques to
-addressing questions in linguistic theory.
+propbanks, discourse annotations, etc.), and applications of
+large-scale corpus data and/or sophisticated machine learning
+techniques to addressing questions in linguistic theory.
 
 
 ### Invited speaker
@@ -50,7 +50,7 @@ If you intend to present at the workshop, please choose the option
 Computational Linguistics Workshop as your Submission Type.
 
 All abstracts should be submitted in PDF format via: 
-(https://easychair.org/conferences/?conf=hpsg22)
+[https://easychair.org/conferences/?conf=hpsg22](https://easychair.org/conferences/?conf=hpsg22)
 
 All abstracts will be reviewed anonymously by at least two reviewers.
 The submissions should not include the authors' names, and authors are
@@ -58,7 +58,7 @@ asked to avoid self-references. Please direct any questions to the
 Program Committee Chair: Elodie Winckel (hpsg22@easychair.org).
 
 
-### Organizer:
+### Organizer
 
 Yusuke Kubota (National Institute for Japanese Language and Linguistics)
 
@@ -69,11 +69,11 @@ Yusuke Kubota (National Institute for Japanese Language and Linguistics)
 - Notifications of acceptance: May 2nd 2022
 - Main Conference: July 29th-30th 2022
 - Workshop on  Computational Linguistics on East Asian languages: July 31st 2022
-- Conference proceedings submission: October 15th 2022
 
 
 ### Publication
 
 A call for contributions to the proceedings will be issued after the
-conference. The papers will be published either at CSLI together with the
-main conference proceedings or in a separate collective volume.
+conference. The papers will be published either at the online
+proceedings platform at CSLI together with the main conference
+proceedings or in a separate collective volume.
