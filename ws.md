@@ -62,3 +62,23 @@ The submissions should not include the authors' names, and authors are
 asked to avoid self-references. Please direct any questions to the
 Program Committee Chair: Elodie Winckel (hpsg22@easychair.org).
 
+
+### Workshop organizer
+
+Yusuke Kubota (National Institute for Japanese Language and Linguistics)
+
+
+### Important dates
+
+- Abstract submission deadline: March 16th 2022 (anywhere on earth) 
+- Notifications of acceptance: May 2nd 2022
+- Main Conference: July 29th-30th 2022
+- Workshop on  Computational Linguistics on East Asian languages: July 31st 2022
+
+
+### Publication
+
+A call for contributions to the proceedings will be issued after the
+conference. The papers will be published either at the online
+proceedings platform at CSLI together with the main conference
+proceedings or in a separate collective volume.
