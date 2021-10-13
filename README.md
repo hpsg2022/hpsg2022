@@ -41,7 +41,8 @@ Program Committee Chair: Elodie Winckel (hpsg22@easychair.org).
 
 A call for contributions to the proceedings will be issued after the
 Conference. Proceedings of previous conferences are available at:
-http://csli-publications.stanford.edu/HPSG/.
+[http://csli-publications.stanford.edu/HPSG/](http://csli-publications.stanford.edu/HPSG/)
+
 
 ### Important Dates
 
