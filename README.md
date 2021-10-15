@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 29th International Conference on Head-Driven Phrase Structure Grammar
 description: 29th International Conference on Head-Driven Phrase Structure Grammar
 ---
