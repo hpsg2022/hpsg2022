@@ -1,3 +1,9 @@
+---
+layout: default
+title: 29th International Conference on Head-Driven Phrase Structure Grammar
+description: 29th International Conference on Head-Driven Phrase Structure Grammar
+---
+
 # 29th International Conference on Head-Driven Phrase Structure Grammar
 
 [Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
