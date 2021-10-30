@@ -23,9 +23,8 @@ discussion period will be online.
 
 ### Invited speakers
 
-[Francis Bond](https://blogs.ntu.edu.sg/dh/francis-charles-bond/) (NTU)
-
-TBA
+- [Francis Bond](https://blogs.ntu.edu.sg/dh/francis-charles-bond/) (NTU)
+- TBA
 
 
 ### Submissions
