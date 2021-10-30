@@ -2,12 +2,6 @@
 
 [Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
 
-**Note: This site is still under construction and the information below
-is unofficial; we will send out an official Call for Papers soon, so,
-please wait for a while and come back to this site 
-once the details are finalized.**
-
-
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
 Institute for Japanese Language and Linguistics on 29 July - 31 July 2022. 
@@ -25,6 +19,13 @@ followed by a one-day workshop on Computational Linguistics on East
 Asian Languages, which will be announced separately. Presentations
 will be pre-recorded and pre-loaded on the conference website, and the
 discussion period will be online.
+
+
+### Invited speakers
+
+[Francis Bond](https://blogs.ntu.edu.sg/dh/francis-charles-bond/) (NTU)
+
+TBA
 
 
 ### Submissions

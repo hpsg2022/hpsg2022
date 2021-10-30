@@ -1,10 +1,5 @@
 # Workshop on Computational Linguistics on East Asian Languages
 
-**Note: This site is still under construction and the information below
-is unofficial; we will send out an official Call for Papers soon, so,
-please wait for a while and come back to this site 
-once the details are finalized.**
-
 A one-day workshop on Computational Linguistics on East Asian
 Languages will be held as an **online event** on 31 July 2022, in
 conjunction with the 29th International Conference on Head-driven
