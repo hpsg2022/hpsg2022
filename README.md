@@ -1,6 +1,6 @@
 # 29th International Conference on Head-Driven Phrase Structure Grammar
 
-[Call for Papers](cfp.md) - - - [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
+[Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
 
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
