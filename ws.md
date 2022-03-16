@@ -65,7 +65,7 @@ Yusuke Kubota (National Institute for Japanese Language and Linguistics)
 
 ### Important dates
 
-- Abstract submission deadline: March 16th 2022 (anywhere on earth) 
+- Abstract submission deadline: March 23rd 2022 (anywhere on earth; deadline extended) 
 - Notifications of acceptance: May 2nd 2022
 - Main Conference: July 29th-30th 2022
 - Workshop on  Computational Linguistics on East Asian languages: July 31st 2022
