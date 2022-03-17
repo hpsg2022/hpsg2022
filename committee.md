@@ -1,0 +1,31 @@
+### Program Committee
+
+- Anne Abeillé
+- Sascha Bargmann
+- Emily M. Bender
+- Felix Bildhauer
+- Olivier Bonami
+- Francis Bond
+- Gosse Bouma
+- Rui Chaves
+- Berthold Crysmann
+- Thomas Hoffmann
+- Anke Holler
+- Jong-Bok Kim
+- Jean-Pierre Koenig
+- Yusuke Kubota
+- Antonio Machicao Y Priemer
+- Nurit Melnik
+- Stefan Müller
+- Tsuneko Nakazawa
+- Petya Osenova
+- David Yoshikazu Oshima
+- Rainer Osswald
+- Gerald Penn
+- Frank Richter
+- Manfred Sailer
+- Stephen Wechsler
+- Elodie Winckel
+- Shuichi Yatabe
+- Eun-Jung Yoo
+- Olga Zamaraeva
