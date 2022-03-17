@@ -1,31 +1,31 @@
 # Program Committee
 
-- Anne Abeillé
-- Sascha Bargmann
-- Emily M. Bender
-- Felix Bildhauer
-- Olivier Bonami
-- Francis Bond
-- Gosse Bouma
-- Rui Chaves
-- Berthold Crysmann
-- Thomas Hoffmann
-- Anke Holler
-- Jong-Bok Kim
-- Jean-Pierre Koenig
-- Yusuke Kubota
-- Antonio Machicao Y Priemer
-- Nurit Melnik
-- Stefan Müller
-- Tsuneko Nakazawa
-- Petya Osenova
-- David Yoshikazu Oshima
-- Rainer Osswald
-- Gerald Penn
-- Frank Richter
-- Manfred Sailer
-- Stephen Wechsler
-- Elodie Winckel
-- Shuichi Yatabe
-- Eun-Jung Yoo
-- Olga Zamaraeva
+- Anne Abeillé (LLF, University Paris 7)
+- Sascha Bargmann (Goethe University Frankfurt)
+- Emily M. Bender (University of Washington)
+- Felix Bildhauer (Institut für Deutsche Sprache)
+- Olivier Bonami (Universite Paris Diderot)
+- Francis Bond (Nanyang Technological University)
+- Gosse Bouma (Rijksuniversiteit Groningen)
+- Rui Chaves (University at Buffalo, SUNY)
+- Berthold Crysmann (CNRS - LLF (UMR 7110) - U Paris)
+- Thomas Hoffmann (KU Eichstaett-Ingolstadt)
+- Anke Holler (University of Göttingen)
+- Jong-Bok Kim (Kyung Hee University)
+- Jean-Pierre Koenig (University at Buffalo, SUNY)
+- Yusuke Kubota (National Institute for Japanese Language and Linguistics)
+- Antonio Machicao Y Priemer (Humboldt-Universität zu Berlin)
+- Nurit Melnik (The Open University of Israel)
+- Stefan Müller (Humboldt Universität zu Berlin)
+- Tsuneko Nakazawa (The University of Tokyo)
+- Petya Osenova (Sofia University and IICT-BAS)
+- David Yoshikazu Oshima (Nagoya University)
+- Rainer Osswald (Heinrich-Heine-Universität Düsseldorf)
+- Gerald Penn (University of Toronto)
+- Frank Richter (Goethe Universität Frankfurt)
+- Manfred Sailer (Goethe-University Frankfurt a.M.)
+- Stephen Wechsler (The University of Texas at Austin)
+- Elodie Winckel (Friedrich-Alexander Universität Erlangen-Nürnberg)
+- Shuichi Yatabe (The University of Tokyo)
+- Eun-Jung Yoo (Seoul National University)
+- Olga Zamaraeva (University of Washington)
