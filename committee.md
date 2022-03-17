@@ -1,4 +1,4 @@
-### Program Committee
+# Program Committee
 
 - Anne Abeillé
 - Sascha Bargmann
