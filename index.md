@@ -1,3 +1,8 @@
+---
+layout: default
+title: HPSG 2022
+description: 29th International Conference on Head-Driven Phrase Structure Grammar
+---
 # 29th International Conference on Head-Driven Phrase Structure Grammar
 
 [Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
