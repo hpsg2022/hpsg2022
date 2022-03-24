@@ -14,6 +14,7 @@
 - Jong-Bok Kim (Kyung Hee University)
 - Jean-Pierre Koenig (University at Buffalo, SUNY)
 - Yusuke Kubota (National Institute for Japanese Language and Linguistics)
+- Andy Lücking (Goethe University Frankfurt)
 - Antonio Machicao Y Priemer (Humboldt-Universität zu Berlin)
 - Nurit Melnik (The Open University of Israel)
 - Stefan Müller (Humboldt Universität zu Berlin)
