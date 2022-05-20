@@ -2,3 +2,7 @@ title: HPSG 2022
 description: 29th International Conference on Head-Driven Phrase Structure Grammar
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  
