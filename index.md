@@ -27,7 +27,7 @@ discussion period will be online.
 
 ### Invited speakers
 
-- [Francis Bond](https://blogs.ntu.edu.sg/dh/francis-charles-bond/) (NTU)
+- [Francis Bond](https://fcbond.github.io/) (Palacký University Olomouc)
 - [Seiko Fujii](https://www.u-tokyo.ac.jp/focus/en/people/people002168.html) (The University of Tokyo)
 
 ### Submissions
