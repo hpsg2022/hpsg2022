@@ -4,7 +4,7 @@ title: HPSG 2022
 description: 29th International Conference on Head-Driven Phrase Structure Grammar
 ---
 
-[Program](program.md) - - - [Workshop](ws.md) - - - [Program committee](committee.md) - - - [Registration](registration.md)
+[Program](program.md) - - [Workshop](ws.md) - - [Program committee](committee.md) - - [Registration](registration.md) - - [For presenters](presenters.md) - - [For participants](participants.md) 
 
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
