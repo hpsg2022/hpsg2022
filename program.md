@@ -1,4 +1,4 @@
-# Program for Question \& Discussion Sessions
+# Program for Question & Discussion Sessions
 
 (Times are all JST.)
 
