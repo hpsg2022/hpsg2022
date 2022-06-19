@@ -36,12 +36,12 @@
 - 10:00-10:15 **Jingcheng Niu and Gerald Penn** (University of Toronto) "Chinese quantifier scope, Concord, and lexical resource semantics" \[long paper\]
 - 10:15-10:30 **Yusuke Kubota and Robert Levine** (National Institute for Japanese Language and Linguistics / Ohio State University) "Lexical idiosyncrasies---constructions or inferences?: A case study on English auxiliaries" \[long paper\]
 - 10:30-10:45 **Shuichi Yatabe** (The University of Tokyo) "Respectively interpretation and binding conditions A and B" \[long paper\]
-- 10:45-11:00 **David Yoshikazu Oshima** (Nagoya University) "How to be a ham sandwich or an eel: The English deferred equative and the Japanese eel sentence" \[long paper\]
+- 10:45-11:00 **David Y. Oshima** (Nagoya University) "How to be a ham sandwich or an eel: The English deferred equative and the Japanese eel sentence" \[long paper\]
 
 
 #### Invited talk 2 (11:15-12:15)
 
-**Francis Bond** (Palacký University Olomouc) Documenting computational grammars with the Linguistic Type Database
+**Francis Bond** (Palacký University Olomouc) "Documenting computational grammars with the Linguistic Type Database"
 
 
 
