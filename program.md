@@ -33,7 +33,7 @@
 
 #### Regular Session 3 (10:00-11:00)
 
-- 10:00-10:15 **Jingcheng Niu** (University of Toronto) and **Gerald Penn** (University of Toronto) "Chinese quantifier scope, Concord, and lexical resource semantics" \[long paper\]
+- 10:00-10:15 **Jingcheng Niu** (University of Toronto) and **Gerald Penn** (University of Toronto) "Chinese quantifier scope, concord, and lexical resource semantics" \[long paper\]
 - 10:15-10:30 **Yusuke Kubota** (National Institute for Japanese Language and Linguistics) and **Robert Levine** Ohio State University) "Lexical idiosyncrasies---constructions or inferences?: A case study on English auxiliaries" \[long paper\]
 - 10:30-10:45 **Shuichi Yatabe** (The University of Tokyo) "Respectively interpretation and binding conditions A and B" \[long paper\]
 - 10:45-11:00 **David Y. Oshima** (Nagoya University) "How to be a ham sandwich or an eel: The English deferred equative and the Japanese eel sentence" \[long paper\]
