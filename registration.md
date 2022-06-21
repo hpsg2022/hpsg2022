@@ -9,8 +9,10 @@ is open throughout the conference; you just need to register once):
 
 [https://zoom.us/meeting/register/tJIsdOigqT8rHdY3DEPRSrsIFzlMMtDOSEAw](https://zoom.us/meeting/register/tJIsdOigqT8rHdY3DEPRSrsIFzlMMtDOSEAw)
 
-Any information you provide us will be treated according to the
-following privacy policy: [https://www.ninjal.ac.jp/utility/policy/#PRIVACYPOLICY](https://www.ninjal.ac.jp/utility/policy/#PRIVACYPOLICY)
+- If the form appears in Japanese, select 'English' in the language setting box at the right bottom corner in the registration form.
+
+- Any information you provide us will be treated according to the following privacy policy:
+  [https://www.ninjal.ac.jp/english/utility/policy/#PRIVACYPOLICY](https://www.ninjal.ac.jp/english/utility/policy/#PRIVACYPOLICY)
 
 Once you fill out the form, you will receive an email containing the
 link for discord and zoom that will be used for the conference.
