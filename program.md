@@ -18,8 +18,8 @@
 
 - 16:10-16:20 **Chenyuan Deng** (Humboldt-Universität zu Berlin) "An HPSG approach for classifiers and measure words in Mandarin Chinese" \[short paper\]
 - 16:20-16:30 **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin) and **Chenyuan Deng** (Humboldt-Universität zu Berlin) "The V+T+de+N construction in Chinese: A case of bracketing paradox" \[short paper\]
-- 16:30-16:45 **Berthold Crysmann** (Université Paris Cité) "A phrase-structure based approach to German asymmetric coordinations" \[long paper\]
-- 16:45-17:00 **Robert Borsley** (University of Essex/Bangor University) "On the structure of Welsh noun phrases" \[long paper\]
+- 16:30-16:45 **Berthold Crysmann** (CNRS & Université Paris Cité) "A phrase-structure based approach to German asymmetric coordinations" \[long paper\]
+- 16:45-17:00 **Robert Borsley** (University of Essex & Bangor University) "On the structure of Welsh noun phrases" \[long paper\]
 - 17:00-17:15 **Jakob Maché** (Universidade de Lisboa) "Accounting for variation in Western Benue resultative verb constructions" \[long paper\]
 
 
