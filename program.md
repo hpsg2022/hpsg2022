@@ -26,7 +26,7 @@
 
 #### Invited Talk 1 (17:30-18:30)
 
-**Seiko Fujii** (The University of Tokyo) TBA
+- **Seiko Fujii** (The University of Tokyo) TBA
 
 
 ### 7/30 (Day 2)
@@ -41,7 +41,7 @@
 
 #### Invited Talk 2 (11:15-12:15)
 
-**Francis Bond** (Palacký University Olomouc) "Documenting computational grammars with the Linguistic Type Database"
+- **Francis Bond** (Palacký University Olomouc) "Documenting computational grammars with the Linguistic Type Database"
 
 
 #### Business Meeting (12:15-12:35)
@@ -61,7 +61,7 @@
 
 #### Workshop Invited Talk (15:00-16:00)
 
-**Koji Mineshima** (Keio University) TBA
+- **Koji Mineshima** (Keio University) TBA
 
 #### Workshop Session 2 (Questions and Discussion) (16:30-16:55)
 
