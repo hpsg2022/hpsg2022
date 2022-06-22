@@ -44,6 +44,9 @@
 **Francis Bond** (Palacký University Olomouc) "Documenting computational grammars with the Linguistic Type Database"
 
 
+#### Business Meeting (12:20-12:40)
+
+
 
 ## Workshop on Computational Linguistics on East Asian Languages
 
