@@ -27,7 +27,7 @@ Discord channel. You can do the same with your other files (handout,
 etc.), although small files could be directly posted on Discord
 channels, too. Your channel should look like the screenshot below.
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
 We ask that the videos and materials be posted by **July 22nd**, if not earlier, so
 that participants have enough time to watch pre-recorded presentations.
