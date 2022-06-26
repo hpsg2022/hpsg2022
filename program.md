@@ -11,7 +11,7 @@
 - 15:00-15:15 **Nurit Melnik** (The Open University of Israel) "Copy raising reconsidered" \[long paper\]
 - 15:15-15:30 **Petter Haugereid** (Western Norway University of Applied Sciences) "An HPSG account of ground promotion in Norwegian" \[long paper\]
 - 15:30-15:45 **Stefan Müller** (Humboldt-Universität zu Berlin), **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin), **Roland Schäfer** (Humboldt-Universität zu Berlin), and **Felix Bildhauer** (Leibniz-Institut für Deutsche Sprache) "Towards a treatment of register phenomena in HPSG" \[long paper\]
-- 15:45-16:00 **Hiwa Asadpour** (Goethe-University Frankfurt a.M.), **Shene Hassan** (Rackow Schule Frankfurt), and **Manfred Sailer** (Goethe-University Frankfurt a.M.) "Non-"wh" relatives in English and Kurdish: Constraints on grammar and use" \[long paper\]
+- 15:45-16:00 **Hiwa Asadpour** (JSPS International Fellow, University of Tokyo), **Shene Hassan** (Rackow Schule Frankfurt), and **Manfred Sailer** (Goethe-University Frankfurt a.M.) "Non-"wh" relatives in English and Kurdish: Constraints on grammar and use" \[long paper\]
 
 
 #### Regular Session 2 (Questions and Discussion) (16:10-17:15)
