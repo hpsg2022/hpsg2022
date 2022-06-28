@@ -52,5 +52,5 @@ Elodie Winckel (Friedrich Alexander University Erlangen-Nuremberg)
 ### Contact information
 
 For general questions, please contact the Program Committee Chair Elodie Winckel (hpsg22@easychair.org).
-For questions about the logistics of the conference, 
+For questions about the logistics of the conference (registration, zoom, discord, etc.), 
 please contact the local organizers (David Y. Oshima and Yusuke Kubota) at rirontaisho@gmail.com
