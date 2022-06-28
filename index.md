@@ -4,7 +4,7 @@ title: HPSG 2022
 description: 29th International Conference on Head-Driven Phrase Structure Grammar
 ---
 
-[Program](program.md) - - [Workshop](ws.md) - - [Program committee](committee.md) - - [Registration](registration.md) - - [For presenters](presenters.md) - - [For participants](participants.md) 
+[Program](program.md) - - [Workshop](ws.md) - - [CfP](cfp.md) - - [Program committee](committee.md) - - [Registration](registration.md) - - [For presenters](presenters.md) - - [For participants](participants.md) 
 
 The 29th International Conference on Head-Driven Phrase Structure
 Grammar will be virtually hosted at Nagoya University and the National
@@ -30,33 +30,6 @@ discussion period will be online.
 - [Francis Bond](https://fcbond.github.io/) (Palacký University Olomouc)
 - [Seiko Fujii](https://www.u-tokyo.ac.jp/focus/en/people/people002168.html) (The University of Tokyo)
 
-### Submissions
-
-We welcome two types of submissions for the main HPSG conference: 
-
-- Long papers (4-page abstract + 1 page data, figures & references; 20
-  minute pre-recorded presentation + 15 minute online discussion)
-- Short papers (2-page abstract + 1 page data, figures & references;
-  10 minute pre-recorded presentation + 10 minute online discussion)
-
-Please note that abstracts submitted for the "long paper" track can be
-accepted as "short papers" (and vice versa). Only "long papers" will
-appear in the proceedings.
-
-All abstracts should be submitted in PDF format via: 
-[https://easychair.org/conferences/?conf=hpsg22](https://easychair.org/conferences/?conf=hpsg22)
-
-
-All abstracts will be reviewed anonymously by at least two reviewers.
-The submissions should not include the authors' names, and authors are
-asked to avoid self-references. Please direct any questions to the
-Program Committee Chair: Elodie Winckel (hpsg22@easychair.org).
-
-A call for contributions to the proceedings will be issued after the
-Conference. Proceedings of previous conferences are available at:
-[https://proceedings.hpsg.xyz/issue/archive](https://proceedings.hpsg.xyz/issue/archive)
-
-
 ### Important Dates
 
 - Abstract submission deadline: March 23rd 2022 (anywhere on earth; deadline extended) 
@@ -66,7 +39,18 @@ Conference. Proceedings of previous conferences are available at:
 - Conference proceedings submission: October 15th 2022
 
 
+### Program Committee Chair
+
+Elodie Winckel (Friedrich Alexander University Erlangen-Nuremberg)
+
 ### Local Organizing Committee Chairs
 
 - David Y. Oshima (Nagoya University)
 - Yusuke Kubota (National Institute for Japanese Language and Linguistics)
+
+
+### Contact information
+
+For general questions, please contact the Program Committee Chair Elodie Winckel (hpsg22@easychair.org).
+For questions about the logistics of the conference, 
+please contact the local organizers (David Y. Oshima and Yusuke Kubota) at rirontaisho@gmail.com
