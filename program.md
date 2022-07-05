@@ -9,9 +9,9 @@
 #### Regular Session 1 (Questions and Discussion) (15:00-16:00)
 
 - 15:00-15:15 **Nurit Melnik** (The Open University of Israel) ["Copy raising reconsidered"](abstracts/Melnik.pdf) \[long paper\]
-- 15:15-15:30 **Petter Haugereid** (Western Norway University of Applied Sciences) "An HPSG account of ground promotion in Norwegian" \[long paper\]
+- 15:15-15:30 **Petter Haugereid** (Western Norway University of Applied Sciences) ["An HPSG account of ground promotion in Norwegian"](abstracts/Haugereid.pdf) \[long paper\]
 - 15:30-15:45 **Stefan Müller** (Humboldt-Universität zu Berlin), **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin), **Roland Schäfer** (Humboldt-Universität zu Berlin), and **Felix Bildhauer** (Leibniz-Institut für Deutsche Sprache) "Towards a treatment of register phenomena in HPSG" \[long paper\]
-- 15:45-16:00 **Hiwa Asadpour** (JSPS International Fellow, University of Tokyo), **Shene Hassan** (Rackow Schule Frankfurt), and **Manfred Sailer** (Goethe-University Frankfurt a.M.) "Non-"wh" relatives in English and Kurdish: Constraints on grammar and use" \[long paper\]
+- 15:45-16:00 **Hiwa Asadpour** (JSPS International Fellow, University of Tokyo), **Shene Hassan** (Rackow Schule Frankfurt), and **Manfred Sailer** (Goethe-University Frankfurt a.M.) ["Non-"wh" relatives in English and Kurdish: Constraints on grammar and use"](abstracts/Asadpour-Hassan-Sailer.pdf) \[long paper\]
 
 
 #### Regular Session 2 (Questions and Discussion) (16:10-17:15)
@@ -33,7 +33,7 @@
 
 #### Regular Session 3 (Questions and Discussion) (10:00-11:00)
 
-- 10:00-10:15 **Jingcheng Niu** (University of Toronto) and **Gerald Penn** (University of Toronto) "Chinese quantifier scope, concord, and lexical resource semantics" \[long paper\]
+- 10:00-10:15 **Jingcheng Niu** (University of Toronto) and **Gerald Penn** (University of Toronto) ["Chinese quantifier scope, concord, and lexical resource semantics"](abstracts/Niu-Penn.pdf) \[long paper\]
 - 10:15-10:30 **Yusuke Kubota** (National Institute for Japanese Language and Linguistics) and **Robert Levine** (Ohio State University) ["Lexical idiosyncrasies---constructions or inferences?: A case study on English auxiliaries"](abstracts/Kubota-Levine.pdf) \[long paper\]
 - 10:30-10:45 **Shuichi Yatabe** (The University of Tokyo) ["Respectively interpretation and binding conditions A and B"](abstracts/Yatabe.pdf) \[long paper\]
 - 10:45-11:00 **David Y. Oshima** (Nagoya University) ["How to be a ham sandwich or an eel: The English deferred equative and the Japanese eel sentence"](abstracts/Oshima.pdf) \[long paper\]
@@ -65,5 +65,5 @@
 
 #### Workshop Session 2 (Questions and Discussion) (16:30-16:55)
 
-- 16:30-16:45 **Giuseppe Samo** (Beijing Language and Culture University) and **Xu Chen** (Beijing Language and Culture University) "Syntactic locality in Chinese in-situ and ex-situ wh-questions in transformer-based deep neural network language models" \[long paper\]
+- 16:30-16:45 **Giuseppe Samo** (Beijing Language and Culture University) and **Xu Chen** (Beijing Language and Culture University) ["Syntactic locality in Chinese in-situ and ex-situ wh-questions in transformer-based deep neural network language models"](abstracts/Samo-Chen.pdf) \[long paper\]
 - 16:45-16:55 **Chihiro Taguchi** (The University of Edinburgh) "Consistent grammatical annotation of Turkic languages for more universal Universal Dependencies" \[short paper\]
