@@ -10,17 +10,17 @@
 
 - 15:00-15:15 **Nurit Melnik** (The Open University of Israel) ["Copy raising reconsidered"](abstracts/Melnik.pdf) \[long paper\]
 - 15:15-15:30 **Petter Haugereid** (Western Norway University of Applied Sciences) ["An HPSG account of ground promotion in Norwegian"](abstracts/Haugereid.pdf) \[long paper\]
-- 15:30-15:45 **Stefan Müller** (Humboldt-Universität zu Berlin), **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin), **Roland Schäfer** (Humboldt-Universität zu Berlin), and **Felix Bildhauer** (Leibniz-Institut für Deutsche Sprache) "Towards a treatment of register phenomena in HPSG" \[long paper\]
+- 15:30-15:45 **Stefan Müller** (Humboldt-Universität zu Berlin), **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin), **Roland Schäfer** (Humboldt-Universität zu Berlin), and **Felix Bildhauer** (Leibniz-Institut für Deutsche Sprache) ["Towards a treatment of register phenomena in HPSG"](Mueller-Machicao-y-Priemer-Schaefer-Bildhauer.pdf) \[long paper\]
 - 15:45-16:00 **Hiwa Asadpour** (JSPS International Fellow, University of Tokyo), **Shene Hassan** (Rackow Schule Frankfurt), and **Manfred Sailer** (Goethe-University Frankfurt a.M.) ["Non-"wh" relatives in English and Kurdish: Constraints on grammar and use"](abstracts/Asadpour-Hassan-Sailer.pdf) \[long paper\]
 
 
 #### Regular Session 2 (Questions and Discussion) (16:10-17:15)
 
 - 16:10-16:20 **Chenyuan Deng** (Humboldt-Universität zu Berlin) "An HPSG approach for classifiers and measure words in Mandarin Chinese" \[short paper\]
-- 16:20-16:30 **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin) and **Chenyuan Deng** (Humboldt-Universität zu Berlin) "The V+T+de+N construction in Chinese: A case of bracketing paradox" \[short paper\]
+- 16:20-16:30 **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin) and **Chenyuan Deng** (Humboldt-Universität zu Berlin) ["The V+T+de+N construction in Chinese: A case of bracketing paradox"](Machicao-y-Priemer-Deng.pdf) \[short paper\]
 - 16:30-16:45 **Berthold Crysmann** (CNRS & Université Paris Cité) "A phrase-structure based approach to German asymmetric coordinations" \[long paper\]
 - 16:45-17:00 **Robert Borsley** (University of Essex & Bangor University) ["On the structure of Welsh noun phrases"](abstracts/Borsley.pdf) \[long paper\]
-- 17:00-17:15 **Jakob Maché** (Universidade de Lisboa) "Accounting for variation in Western Benue resultative verb constructions" \[long paper\]
+- 17:00-17:15 **Jakob Maché** (Universidade de Lisboa) ["Accounting for variation in Western Benue resultative verb constructions"](Mache.pdf) \[long paper\]
 
 
 
