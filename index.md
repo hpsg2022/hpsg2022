@@ -34,6 +34,7 @@ discussion period will be online.
 
 - Abstract submission deadline: March 23rd 2022 (anywhere on earth; deadline extended) 
 - Notifications of acceptance: May 2nd 2022
+- Upload of presentation materials on discord: July 22nd 2022
 - Main Conference: July 29th-30th 2022
 - Workshop on Computational Linguistics on East Asian Languages: July 31st 2022
 - Conference proceedings submission: October 15th 2022
