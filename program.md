@@ -6,7 +6,7 @@
 
 ### 7/29 (Day 1)
 
-- 14:55-15:00 **Opening**
+- 14:50-15:00 **Welcome remarks**
 
 #### Regular Session 1 (Questions and Discussion) (15:00-16:00)
 
