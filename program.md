@@ -6,6 +6,8 @@
 
 ### 7/29 (Day 1)
 
+- 14:55-15:00 **Opening**
+
 #### Regular Session 1 (Questions and Discussion) (15:00-16:00)
 
 - 15:00-15:15 **Nurit Melnik** (The Open University of Israel) ["Copy raising reconsidered"](abstracts/Melnik.pdf) \[long paper\]
