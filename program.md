@@ -63,7 +63,7 @@
 
 #### Workshop Invited Talk (15:00-16:00)
 
-- **Koji Mineshima** (Keio University) TBA
+- **Koji Mineshima** (Keio University) "Evaluating Compositionality in Japanese Textual Entailment"
 
 #### Workshop Session 2 (Questions and Discussion) (16:30-16:55)
 
