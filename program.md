@@ -18,7 +18,7 @@
 
 #### Regular Session 2 (Questions and Discussion) (16:10-17:15)
 
-- 16:10-16:20 **Chenyuan Deng** (Humboldt-Universität zu Berlin) "An HPSG approach for classifiers and measure words in Mandarin Chinese" \[short paper\]
+- 16:10-16:20 **Chenyuan Deng** (Humboldt-Universität zu Berlin) ["An HPSG approach for classifiers and measure words in Mandarin Chinese"](abstracts/Deng.pdf) \[short paper\]
 - 16:20-16:30 **Antonio Machicao Y Priemer** (Humboldt-Universität zu Berlin) and **Chenyuan Deng** (Humboldt-Universität zu Berlin) ["The V+T+de+N construction in Chinese: A case of bracketing paradox"](abstracts/Machicao-y-Priemer-Deng.pdf) \[short paper\]
 - 16:30-16:45 **Berthold Crysmann** (CNRS & Université Paris Cité) "A phrase-structure based approach to German asymmetric coordinations" \[long paper\]
 - 16:45-17:00 **Robert Borsley** (University of Essex & Bangor University) ["On the structure of Welsh noun phrases"](abstracts/Borsley.pdf) \[long paper\]
@@ -56,7 +56,7 @@
 
 #### Workshop Session 1 (Questions and Discussion) (12:30-12:55)
 
-- 12:30-12:40 **James Cooper Roberts**(Boston University), **Michael Fang** (Boston University), **Noah Trudel** (Boston University), and **Patrick Juola** (Duquesne University) "Who writes of Kaguya-hime? Investigating the authorship of The Tale of the Bamboo Cutter using stylometric software" \[short paper\]
+- 12:30-12:40 **James Cooper Roberts**(Boston University), **Michael Fang** (Boston University), **Noah Trudel** (Boston University), and **Patrick Juola** (Duquesne University) ["Who writes of Kaguya-hime? Investigating the authorship of The Tale of the Bamboo Cutter using stylometric software"](abstracts/Roberts-etal.pdf) \[short paper\]
 - 12:40-12:55 **Luis Morgado Da Costa** (Palacký University Olomouc) and **Francis Bond** (Palacký University Olomouc) ["Grammatical error detection using HPSG grammars: Diagnosing common Mandarin Chinese grammatical errors"](abstracts/Morgado-da-Costa-Bond.pdf) \[long paper\]
 
 
@@ -68,4 +68,4 @@
 #### Workshop Session 2 (Questions and Discussion) (16:30-16:55)
 
 - 16:30-16:45 **Giuseppe Samo** (Beijing Language and Culture University) and **Xu Chen** (Beijing Language and Culture University) ["Syntactic locality in Chinese in-situ and ex-situ wh-questions in transformer-based deep neural network language models"](abstracts/Samo-Chen.pdf) \[long paper\]
-- 16:45-16:55 **Chihiro Taguchi** (The University of Edinburgh) "Consistent grammatical annotation of Turkic languages for more universal Universal Dependencies" \[short paper\]
+- 16:45-16:55 **Chihiro Taguchi** (The University of Edinburgh) ["Consistent grammatical annotation of Turkic languages for more universal Universal Dependencies"](abstracts/Taguchi.pdf) \[short paper\]
