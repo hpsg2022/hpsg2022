@@ -43,7 +43,7 @@
 
 #### Invited Talk 2 (11:15-12:15)
 
-- **Francis Bond** (Palacký University Olomouc) "Documenting computational grammars with the Linguistic Type Database"
+- **Francis Bond** (Palacký University Olomouc) ["Documenting computational grammars with the Linguistic Type Database"](abstracts/Bond.pdf)
 
 
 #### Business Meeting (12:15-12:35)
