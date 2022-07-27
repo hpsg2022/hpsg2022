@@ -28,7 +28,7 @@
 
 #### Invited Talk 1 (17:30-18:30)
 
-- **Seiko Fujii** (The University of Tokyo) "Idiomaticity and regularity in grammatical constructions: What can we learn from the clause-linking construct-i-con?"
+- **Seiko Fujii** (The University of Tokyo) ["Idiomaticity and regularity in grammatical constructions: What can we learn from the clause-linking construct-i-con?"](abstracts/Fujii.pdf)
 
 
 ### 7/30 (Day 2)
