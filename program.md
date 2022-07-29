@@ -69,4 +69,4 @@
 - 16:30-16:45 **Giuseppe Samo** (Beijing Language and Culture University) and **Xu Chen** (Beijing Language and Culture University) ["Syntactic locality in Chinese in-situ and ex-situ wh-questions in transformer-based deep neural network language models"](abstracts/Samo-Chen.pdf) \[long paper\]
 - 16:45-16:55 **Chihiro Taguchi** (The University of Edinburgh) ["Consistent grammatical annotation of Turkic languages for more universal Universal Dependencies"](abstracts/Taguchi.pdf) \[short paper\]
 
-- 16:45-16:50 **Closing remarks**
+- 16:55-17:00 **Closing remarks**
