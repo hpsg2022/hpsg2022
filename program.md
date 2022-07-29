@@ -56,7 +56,7 @@
 
 #### Workshop Session 1 (Questions and Discussion) (12:30-12:55) -- Chair: David Y. Oshima
 
-- 12:30-12:40 **James Cooper Roberts**(Boston University), **Michael Fang** (Boston University), **Noah Trudel** (Boston University), and **Patrick Juola** (Duquesne University) ["Who writes of Kaguya-hime? Investigating the authorship of The Tale of the Bamboo Cutter using stylometric software"](abstracts/Roberts-etal.pdf) \[short paper\]
+- 12:30-12:40 **James Cooper Roberts** (Boston University), **Michael Fang** (Boston University), **Noah Trudel** (Boston University), and **Patrick Juola** (Duquesne University) ["Who writes of Kaguya-hime? Investigating the authorship of The Tale of the Bamboo Cutter using stylometric software"](abstracts/Roberts-etal.pdf) \[short paper\]
 - 12:40-12:55 **Luis Morgado Da Costa** (Palacký University Olomouc) and **Francis Bond** (Palacký University Olomouc) ["Grammatical error detection using HPSG grammars: Diagnosing common Mandarin Chinese grammatical errors"](abstracts/Morgado-da-Costa-Bond.pdf) \[long paper\]
 
 
