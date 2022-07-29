@@ -62,7 +62,7 @@
 
 #### Workshop Invited Talk (15:00-16:00) -- Chair: Yusuke Kubota 
 
-- **Koji Mineshima** (Keio University) ["Evaluating Compositionality in Japanese Textual Entailment"](abstracts/Mineshima.pdf)
+- **Koji Mineshima** (Keio University) ["Evaluating compositionality in Japanese textual entailment"](abstracts/Mineshima.pdf)
 
 #### Workshop Session 2 (Questions and Discussion) (16:30-16:55) -- Chair: Elodie Winckel 
 
